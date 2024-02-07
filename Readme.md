@@ -1,4 +1,4 @@
-# Credit-Defaulter-Analysis-and-Prediction
+# Credit Defaulter Analysis and Prediction
 
 This project uses exploratory data analysis to identify patterns that can be used to detect potential
 credit defaulters. The data is used to identify the driving factors behind loan default and to assess the risk
